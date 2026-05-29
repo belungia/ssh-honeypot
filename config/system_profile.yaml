@@ -1,0 +1,20 @@
+hostname: srv-prod-01
+banner: |
+  SSH-2.0-OpenSSH_8.9p1 Ubuntu-3ubuntu0.6
+motd: |
+  Welcome to Ubuntu 22.04.3 LTS (GNU/Linux 5.15.0-91-generic x86_64)
+
+   * Documentation:  https://help.ubuntu.com
+   * Management:     https://landscape.canonical.com
+   * Support:        https://ubuntu.com/advantage
+
+  Last login: Mon May 25 09:14:22 2026 from 10.0.0.4
+uname:
+  kernel_name: Linux
+  nodename: srv-prod-01
+  kernel_release: 5.15.0-91-generic
+  kernel_version: "#101-Ubuntu SMP Tue Nov 14 13:30:08 UTC 2023"
+  machine: x86_64
+  processor: x86_64
+  hardware_platform: x86_64
+  os: GNU/Linux
